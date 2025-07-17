@@ -1,5 +1,3 @@
-# SZU-Fight4Sport
----
 # 深圳大学体育场馆预约助手 🚀
 
 ![版本](https://img.shields.io/badge/version-v9.0-blue)
