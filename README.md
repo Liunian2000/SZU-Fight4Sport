@@ -45,7 +45,7 @@
 #### 方式 A：从 Greasy Fork 安装 (推荐)
 
 1.  点击下方链接，一键安装最新版本：
-    *   [**点我安装**](https://greasyfork.org/zh-CN/scripts/YOUR-SCRIPT-ID) <!-- ⚠️ 注意：请将 YOUR-SCRIPT-ID 替换为你在 Greasy Fork 上发布脚本后得到的数字ID -->
+    *   [**点我安装**](https://greasyfork.org/zh-CN/scripts/542790-%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E4%BD%93%E8%82%B2%E5%9C%BA%E9%A6%86%E9%A2%84%E7%BA%A6%E5%8A%A9%E6%89%8B) 
 2.  在打开的页面中，点击绿色的“安装此脚本”按钮。
 3.  油猴扩展会弹出确认窗口，再次点击“安装”即可。
 
